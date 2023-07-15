@@ -1,2 +1,2 @@
-# handcricket
-This is a simple Handcricket Game built using Javascript
+# Handcricket
+This is a simple Handcricket Game built using Javascript.....
